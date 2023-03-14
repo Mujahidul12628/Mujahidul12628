@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "mujahid.png" width = 50px></picture> **About me**
+## <picture><img src = "mujahid.png" width = 20px></picture> **About me**
 
-<picture> <img align="right" src="mujahid.png" width = 250px></picture>
+<picture> <img align="right" src="mujahid.png" width = 100px></picture>
 
 <br>
 
