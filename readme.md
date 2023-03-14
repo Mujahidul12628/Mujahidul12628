@@ -13,11 +13,12 @@
 	
 ## <picture><img src = "mujahid.png" width = 25px></picture> **About me**
 
-<picture> <img align="right" src="mujahid.png" width = 150px></picture>
+<picture> <img align="right" src="mujahid.png" width = 140px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Computer Science and Engineering Graduate.
+- Passionate & Dedicated about Front-end development.
 - Currently learning Web Development with Programming Hero
 - Personal website [link](https://mujahidul-islam.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](Resume.pdf)
