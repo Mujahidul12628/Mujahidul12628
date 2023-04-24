@@ -9,7 +9,9 @@
 <br>
 
 	
-## <picture><img src = "mujahid.png" width = 25px></picture> **About me**
+<!-- ## <picture><img src = "mujahid.png" width = 25px></picture>  -->
+
+**About me**
 
 <picture> <img align="right" src="mujahid.png" width = 140px></picture>
 
@@ -142,7 +144,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+<!-- ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b> -->
 
 </div>
 <br>
