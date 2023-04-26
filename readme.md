@@ -4,7 +4,8 @@
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Passionate+&+Dedicated+Front-End+Developer,;Computer+Science+&+Engineering+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+tools+&+technologies<3"></a>
 </p> -->
-<p align="center"><a href="https://github.com/Mujahidul12628"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Computer+Science+and+Engineering+Graduate;Passionate+and+Dedicated+Front-End+Developer;A+Self-motivated+Tech+Enthusiast;Love+to+learn+new+tools+and+technologies;Active+Learner/Researcher" alt="Typing SVG" /></a></p>
+
+<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shamim+Sikder;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books;Passionate+and+dedicated+Frontend+Developer" alt="Typing SVG" /></a></p>
 
 
 <br>
