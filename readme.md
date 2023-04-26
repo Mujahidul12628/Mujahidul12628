@@ -1,9 +1,10 @@
 
 <h1 align="center"><b>Hello , I'm Mujahidul Islam </b></h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Passionate+&+Dedicated+Front-End+Developer,;Computer+Science+&+Engineering+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+tools+&+technologies<3"></a>
-</p>
+</p> -->
+<p align="center"><a href="https://github.com/Mujahidul12628"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Mujahidul+Islam%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 
 <br>
