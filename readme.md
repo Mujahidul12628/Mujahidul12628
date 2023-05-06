@@ -9,8 +9,6 @@
 
 **About me**
 
-<picture> <img align="right" src="mujahid.png" width = 140px></picture>
-
 <br>
 
 - Computer Science and Engineering Graduate.
