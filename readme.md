@@ -131,13 +131,13 @@
   
 [![Mujahid GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mujahidul12628&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Mujahid github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
+
 | --- | --- |
+
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 
 </div>
 
