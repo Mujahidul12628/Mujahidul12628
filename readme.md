@@ -127,18 +127,19 @@
 
 <details>
 <p align="center">
-  | !<a href="https://github.com/Mujahidul12628">
+<a href="https://github.com/Mujahidul12628">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahidul12628&theme=tokyonight" />
-  </a>|
-  | --- | --- |
-  | !<a href="https://github.com/Mujahidul12628">
+  </a>
+ 
+ <a href="https://github.com/Mujahidul12628">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&hide_border=true&card_width=338&theme=tokyonight" />
-  </a> | !<a href="https://github.com/Mujahidul12628">
+  </a> 
+  <a href="https://github.com/Mujahidul12628">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mujahidul12628&theme=tokyonight" />
-  </a> |
+  </a> 
 
-   | --- | --- |
-   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
+
+ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) 
   
 
 
@@ -147,6 +148,10 @@
    | ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
    | --- | --- |
    | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
+
+   | ![Github ssssss](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&hide_border=true&card_width=338&theme=tokyonight) | ![GitHub Saaaaa](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mujahidul12628&theme=tokyonight) |
+
+   | ![Top Lkkk](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahidul12628&theme=tokyonight) |
 </div>
 
 </p>
