@@ -128,16 +128,16 @@
 <details>
 <p align="center">
   <a href="https://github.com/fattahsamit">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattahsamit&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattahsamit&theme=tokyonight" />
   </a>
   <a href="https://github.com/fattahsamit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&hide_border=true&card_width=338&theme=tokyonight" />
   </a>
   <a href="https://github.com/fattahsamit">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fattahsamit&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fattahsamit&theme=tokyonight" />
   </a>
   <a href="https://github.com/fattahsamit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahsamit&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahsamit&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=tokyonight" />
   </a>
 </p>
 </details>
