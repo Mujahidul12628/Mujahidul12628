@@ -139,6 +139,14 @@
   <a href="https://github.com/fattahsamit">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahsamit&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=tokyonight" />
   </a>
+
+ <div align="center">
+
+   | ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
+   | --- | --- |
+   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
+</div>
+
 </p>
 </details>
 
