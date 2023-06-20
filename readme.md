@@ -1,7 +1,6 @@
+## Hello , I'm Mujahidul Islam
 
-<h1 align="center"><b>Hello , I'm Mujahidul Islam </b></h1>
 <p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Computer+Science+and+Engineering+Graduate;Passionate+and+dedicated+Frontend+Developer;A+Self-motivated+Tech+Enthusiast;Always+Love+to+learn+new+tools+and+technologies;Active+Learner/Researcher" alt="Typing SVG" /></a></p>
-<br>
 
 **About me**
 <br>
@@ -122,6 +121,26 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
 </div>
 
+<br>
+<br>
+<br>
+
+<details>
+<p align="center">
+  <a href="https://github.com/fattahsamit">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattahsamit&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahsamit&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fattahsamit&theme=transparent" />
+  </a>
+  <a href="https://github.com/fattahsamit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahsamit&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
 
 
