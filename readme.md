@@ -114,46 +114,25 @@
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <br>
-<div align="center">
-
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
-</div>
-
-<br>
-<br>
-<br>
-
 <details>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect with me</b>
 <p align="center">
-  <a href="https://github.com/Mujahidul12628">
+
+<a href="https://github.com/Mujahidul12628">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahidul12628&theme=tokyonight" />
-  </a>
+</a>
 
- <div>
-     <a href="https://github.com/Mujahidul12628">
+<a href="https://github.com/Mujahidul12628">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&hide_border=true&card_width=338&theme=tokyonight" />
-     </a> 
-     <a href="https://github.com/Mujahidul12628">
+</a> 
+
+<a href="https://github.com/Mujahidul12628">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mujahidul12628&theme=tokyonight" />
-     </a> 
- </div>
+</a> 
 
-  <a href="https://github.com/Mujahidul12628">
+<a href="https://github.com/Mujahidul12628">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight" />
-  </a> 
-
-
-<!-- 
- <div align="center">
-
-   | ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
-   | --- | --- |
-   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) |  |
-</div> -->
-
+</a> 
 </p>
 </details>
 
