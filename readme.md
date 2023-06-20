@@ -128,71 +128,14 @@
 <br>
 
 <div align="center">
-  
-[![Mujahid GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mujahidul12628&theme=tokyonight)](https://git.io/praveenscience)
+    
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mujahidul12628&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujahidul12628&theme=tokyonight) |
-
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mujahidul12628&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahidul12628&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-
 </div>
 
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/Mujahidul12628/Mujahidul12628/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/mujahidulIslam628/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Mujahidul12628-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/Mujahidul12628" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Mujahidul12628-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:Mujahidul12628@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Mujahidul12628-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-<!-- ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b> -->
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
 
 
