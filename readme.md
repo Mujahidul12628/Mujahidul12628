@@ -8,7 +8,6 @@
 - Passionate & Dedicated about Front-end development.
 - Currently learning Web Development with Programming Hero
 - Personal website [link](https://mujahidul-islam.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](Resume.pdf)
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -112,12 +111,9 @@
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
-<br>
-<details>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect with me</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <p align="center">
-
+<details>
 <a href="https://github.com/Mujahidul12628">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahidul12628&theme=tokyonight" />
 </a>
