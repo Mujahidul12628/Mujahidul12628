@@ -102,6 +102,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
 <p align="center" color="purple">
 <details>
+<p align="center">
 <a href="https://github.com/Mujahidul12628">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahidul12628&theme=tokyonight" />
 </a>
